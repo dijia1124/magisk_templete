@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=nio_cpu_thermal_disabler
+name=CPU Thermal Disabler for nio lineage 19.1
+version=v1.0
+versionCode=1
+author=dabenzhu
+description=Magisk Module For Disabling CPU Thermal Engine For Nio Running On LineageOS 19.1
